@@ -6,9 +6,9 @@
 local M = {}
 local highlights = require "highlights" 
 M.base46 = {
-	theme = "neofusion",
+	theme = "flouromachine",
 
-   theme_toggle = { "neofusion", "flexoki-light" },
+   theme_toggle = { "flouromachine", "flexoki-light" },
   -- transparency = true,
   hl_override = highlights.override,
   hl_add = highlights.add,

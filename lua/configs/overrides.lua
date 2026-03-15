@@ -50,6 +50,8 @@ M.mason = {
     -- java
     "jdtls",
     "java-debug-adapter",
+
+    "omnisharp",
   },
 }
 
